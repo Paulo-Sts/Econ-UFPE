@@ -24,3 +24,4 @@ O capitalismo é um sistema político, econômico e social que se orienta pela g
 
 #### Comportamento individualista
 
+pg 34
