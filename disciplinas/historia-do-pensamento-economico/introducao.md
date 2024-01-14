@@ -1,4 +1,4 @@
-# Introdução
+# Introdução à História do Pensamento Econômico
 
 ## MODO DE PRODUÇÃO
 * É o conjunto social da tecnologia de produção e as formações sociais por meio das quais uma classe produz os bens materiais necessários e excedentes enquanto outra parcela ou classe social atua por meio da aproprição dessa produção.

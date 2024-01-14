@@ -1,4 +1,4 @@
-# Capítulo 1 - Dez princípios de economia
+# Dez princípios de economia
 
 ## ECONOMIA
 * Economia é o estudo de como a sociedade administra os seus recursos escassos. A escassez se trata da disponibilidade limitada dos recursos da sociedade.
