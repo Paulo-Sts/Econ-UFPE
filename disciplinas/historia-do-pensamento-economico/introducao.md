@@ -12,11 +12,12 @@
 * São o conjunto de interações entre os grupos sociais que desempenham determinadas funções no funcionamento de um modo de produção.
 
 ## CAPITALISMO
-O capitalismo é um sistema político, econômico e social que se orienta pela generalização da produção de mercadorias e sua realização por meio do mercado, propriedade privada dos meios de produção e o consequente cerco de uma massa populacional a sobreviver da venda da força de trabalho com a apropriação do valor por ele gerado, e elevação do comportamento individualista na mentalidade social.
+* O capitalismo é um sistema político, econômico e social que se orienta pela generalização da produção de mercadorias e sua realização por meio do mercado, propriedade privada dos meios de produção e o consequente cerco de uma massa populacional a sobreviver da venda da força de trabalho com a apropriação do valor por ele gerado, e elevação do comportamento individualista na mentalidade social.
 
 > ### Características do capitalismo
 
 #### Produção de mercadorias
+* O modo de produção capitalista é centrado na produção de mercadorias. Mercadoria é todo produto feito para ser vendido, ou seja, o objetivo de sua produção consiste em promover a sua troca (valor de troca) por dinheiro.
 
 #### Propriedade privada dos meios de produção
 
@@ -24,4 +25,4 @@ O capitalismo é um sistema político, econômico e social que se orienta pela g
 
 #### Comportamento individualista
 
-pg 34
+pg 29
