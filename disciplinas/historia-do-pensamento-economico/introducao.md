@@ -17,7 +17,6 @@
 > ### Características do capitalismo
 
 #### Produção de mercadorias
-* O modo de produção capitalista é centrado na produção de mercadorias. Mercadoria é todo produto feito para ser vendido, ou seja, o objetivo de sua produção consiste em promover a sua troca (valor de troca) por dinheiro.
 
 #### Propriedade privada dos meios de produção
 
