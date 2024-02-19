@@ -24,4 +24,4 @@
 
 #### Comportamento individualista
 
-pg 29
+pg 23
