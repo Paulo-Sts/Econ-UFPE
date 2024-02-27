@@ -5,7 +5,7 @@
 
 > ### Tomada de decisões individuais
 
-#### Princípio 1: As pessoas enfrentam tradeoffs
+#### Princípio 1: As pessoas enfrentam tradeoffs (dilemas)
 * Na tomada de decisões, há sempre situações de escolhas conflitantes. A partir do momento em que uma escolha entre duas ou mais possibilidades divergentes é feita, automaticamente abre-se mão da outra.
 * Dessa forma a ação econômica de resolver determinado problema, leva inevitavelmente a outros.
 * Por exemplo a ação de escolher estudar por mais tempo uma disciplina A no tempo disponível para os estudos, leva automaticamente a ter menos tempo para estudar a disciplina B. 
