@@ -9,4 +9,5 @@
 > ##### Citação importante: 
 > "A história do capitalismo não é apenas ilustrativa, ela é fundamental para a defesa de determinado tipo de orientação política."
 
-pag 26 livro
+
+pag 53 livro
