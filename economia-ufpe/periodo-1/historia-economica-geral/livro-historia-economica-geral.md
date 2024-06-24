@@ -10,4 +10,4 @@
 > "A história do capitalismo não é apenas ilustrativa, ela é fundamental para a defesa de determinado tipo de orientação política."
 
 
-pag 61 livro
+pag 66 livro
