@@ -130,3 +130,9 @@
 * Aumentou o desemprego (entre jovens e mais velhos)
 * Enfraquecimento da organização dos trabalhadores (sindicatos)
 * Aceleração da degradação das condições trabalhistas
+
+#### Além
+* O Neoliberalismo atua também a partir de uma dimensão ética
+* Visão de mundo pautada pela lógica Neoliberal
+* Exautação do Indivíduo
+* Relações sociais como de mercado (As pessoas são definidas pelo que possuem)
