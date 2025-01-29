@@ -39,31 +39,18 @@ mercados”: gerou a base da sua dinamização.
 * Isso envolve planejamento e iniciativas públicas, em vez de discursos ideológicos. 
 
 > ### A subutilização da terra
-* O censo agropecuário de 2017 nos dá outra dimensão da subutilização dos fatores. O
-Brasil é imenso. Os 8,5 milhões de quilómetros quadrados correspondem a 850 milhões
-de hectares. Segundo o censo, 353 milhões de hectares constituem estabelecimentos
-agrícolas. Nesses, 225 milhões de hectares constituem solo agricultável, portanto
-disponível para atividades produtivas, tanto pela qualidade do solo como pela
-disponibilidade de água. O que choca, é que somando a lavoura permanente e
-temporária, o uso produtivo no sentido pleno ocupa 63 milhões de hectares.58
-Arredondando, temos 160 milhões de hectares de solo agrícola parado ou subutilizado.
-Essa área representa 5 vezes o território da Itália. Precisamos desmatar a Amazônia?
-Quem conhece a Europa ou a China e viaja pelo interior do Brasil, fica espantado com
-as gigantescas áreas de terra parada, ou subutilizada.
-Grande parte dessa terra parada ou subutilizada é ocupada pela pecuária extensiva. O
-limite entre terra produtiva e improdutiva gerou um amplo debate devido à pressão
-secular pela reforma agrária no país. Usar imensas regiões com quase um hectare por
-cabeça de gado gera sem dúvida fortunas para os conglomerados agroexportadores de carne, mas para quem conhece formas modernas de criação de gado semi-confinado,
-com as unidades de pecuária plantando forragem, o desperdício torna-se evidente.
-Numa imensa parte do Brasil, o solo constitui apenas a base para um rentismo
-improdutivo. A pecuária extensiva gera pouquíssimo emprego, poucos impostos, e está
-articulada com os grandes traders internacionais de commodities.
-Um resgate do ITR, Imposto Territorial Rural, que no Brasil constitui uma ficção,
-permitiria sem dúvida estimular a produtividade: como na Europa e em outras regiões, o
-fato de pagarem impostos sobre terra parada estimula os proprietários a utilizá-la de
-maneira mais produtiva, ou vendê-la para quem produza. Em particular, é preciso
-tributar o rentismo, em que se valorizam terras com a simples expansão de
-infraestruturas e da urbanização. Em Imperatriz do Maranhão, mais de 80% dos
-produtos nas gôndolas dos supermercados vêm de São Paulo, enquanto em volta da
-cidade dormem imensas extensões de terra parada, que se valoriza passivamente com a
-expansão urbana. Estamos esperando que “os mercados” resolvam?
+* De acordo com o censo agropecuário de 2017 o Brasil é imenso:
+  - Os 8,5 milhões de quilómetros quadrados correspondem a 850 milhões de hectares.
+  - 353 milhões de hectares constituem estabelecimentos agrícolas. 
+  - Nesses, 225 milhões de hectares constituem solo agricultável, portanto disponível para atividades produtivas, tanto pela qualidade do solo como pela disponibilidade de água. 
+  - O que choca, é que somando a lavoura permanente e temporária, o uso produtivo no sentido pleno ocupa 63 milhões de hectares.
+  - Arredondando, temos 160 milhões de hectares de solo agrícola parado ou subutilizado.
+* Essa área representa 5 vezes o território da Itália. Precisamos desmatar a Amazônia?
+* Grande parte dessa terra parada ou subutilizada é ocupada pela pecuária extensiva. 
+* O limite entre terra produtiva e improdutiva gerou um amplo debate devido à pressão secular pela reforma agrária no país. 
+* A pecuária extensiva usa imensas regiões com quase um hectare por cabeça de gado gera sem dúvida fortunas para os conglomerados agroexportadores de carne, mas para quem conhece formas modernas de criação de gado semi-confinado, com as unidades de pecuária plantando forragem, o desperdício torna-se evidente.
+* Numa imensa parte do Brasil, o solo constitui apenas a base para um rentismo improdutivo. 
+* A pecuária extensiva gera pouquíssimo emprego, poucos impostos, e está articulada com os grandes traders internacionais de commodities.
+* Um resgate do ITR, Imposto Territorial Rural, que no Brasil constitui uma ficção, permitiria sem dúvida estimular a produtividade: como na Europa e em outras regiões, o
+fato de pagarem impostos sobre terra parada estimula os proprietários a utilizá-la de maneira mais produtiva, ou vendê-la para quem produza. Em particular, é preciso tributar o rentismo, em que se valorizam terras com a simples expansão de infraestruturas e da urbanização. 
+* Por exemplo em Imperatriz do Maranhão, mais de 80% dos produtos nas gôndolas dos supermercados vêm de São Paulo, enquanto em volta da cidade dormem imensas extensões de terra parada, que se valoriza passivamente com a expansão urbana.
