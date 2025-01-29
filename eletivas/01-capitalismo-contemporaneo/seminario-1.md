@@ -15,39 +15,28 @@ sociedade civil.
 utilidade, pensa em como articular o conjunto. É uma questão de organização, não de esperar a fada da "confiança".
 
 > ### A subutilização da mão de obra
-* Voltamos aos números que vimos acima, com mais detalhe. A realidade é chocante:
-neste país de 214 milhões de habitantes, o emprego formal privado, com carteira
-assinada (excluído trabalho doméstico) se resume a 33 milhões de pessoas.56 Somando
-11 milhões de funcionários públicos, são 44 milhões, apenas 42% da força de trabalho
-de 106 milhões. A subutilização da força de trabalho constitui uma dimensão
-particularmente gritante da nossa fragilidade econômica, pois se trata, para além do
-drama social, de uma enorme insensatez econômica. A Síntese de Indicadores Sociais
-2019 do IBGE traz uma seção sobre essa questão.57
-Como ordem de grandeza, temos 40 milhões de pessoas no setor informal. Segundo o
-IBGE, a renda desses trabalhadores é a metade da renda que o trabalhador formal aufere. São pessoas que no essencial “se viram”. Ser ‘empreendedor individual’ sem
-dúvida frequentemente assegura uma aparência mais digna à subutilização, mas vemos
-na própria uberização e terceirizações irresponsáveis o que isso pode significar. E temos
-15 milhões de pessoas formalmente desempregadas. Somando os 40 milhões do setor
-informal e os 15 milhões de desempregados, são 55 milhões, a metade da força de
-trabalho. A esse contingente precisamos acrescentar o imenso desalento, pessoas que
-estão em idade de trabalho, mas desistiram de procurar, e ainda as pessoas classificadas
+* O Brasil possui:
+  - Por volta de 214 milhões de habitantes;
+  - O emprego formal privado, com carteira assinada (excluído trabalho doméstico) se resume a 33 milhões de pessoas.
+  - 11 milhões de funcionários públicos;
+  - Total 44 milhões, apenas 42% da força de trabalho de 106 milhões.  
+* A subutilização da força de trabalho constitui uma dimensão particularmente gritante da nossa fragilidade econômica, pois se trata, para além do
+drama social, de uma enorme insensatez econômica. 
+* A Síntese de Indicadores Sociais 2019 do IBGE traz uma seção sobre essa questão. Como ordem de grandeza, temos 40 milhões de pessoas no setor informal. 
+* Segundo o IBGE, a renda desses trabalhadores é a metade da renda que o trabalhador formal aufere. São pessoas que no essencial "se viram". 
+* Ser ‘empreendedor individual’ sem dúvida frequentemente assegura uma aparência mais digna à subutilização, mas vemos na própria uberização e terceirizações irresponsáveis o que isso pode significar. 
+* E temos 15 milhões de pessoas formalmente desempregadas. Somando os 40 milhões do setor informal e os 15 milhões de desempregados, são 55 milhões, a metade da força de
+trabalho. 
+* A esse contingente precisamos acrescentar o imenso desalento, pessoas que estão em idade de trabalho, mas desistiram de procurar, e ainda as pessoas classificadas
 como empregadas, mas que trabalham apenas algumas horas.
-No conjunto, a subutilização da força de trabalho, num país onde há tantas coisas por
-fazer, é absolutamente chocante. Em cada um dos 5.570 municípios do país, temos por
-exemplo pessoas desempregadas e terra parada. Não é complicado pensar que se possa
-organizar um cinturão verde hortifrutigranjeiro em torno de cada um, simplesmente
-articulando os fatores de produção parados. Em Santos, no tempo de David Capistrano,
-acompanhei o projeto em que os desempregados da cidade foram cadastrados e
-organizados na Operação Praia Limpa, que permitiu realizar as obras de saneamento,
-tirando os esgotos dos canais pluviais, o que recuperou a balneabilidade das praias, e em
-consequência o turismo, a atividade hoteleira e semelhantes, transformando uma
-operação temporária em empregos permanentes. O prefeito não ficou esperando “os
-mercados”: gerou a base da sua dinamização. Exemplos não faltam, planejamento
-econômico e social consiste em boa parte em articular fatores subutilizados.
-Um argumento ideológico sempre buscou justificar a desigualdade com a falta de
-iniciativa dos pobres: o pobre não precisa que lhe ensinem disposição para trabalhar,
-precisa de oportunidades. Isso envolve planejamento e iniciativas públicas, em vez de
-discursos ideológicos. 
+* No conjunto, a subutilização da força de trabalho, num país onde há tantas coisas por fazer, é absolutamente chocante. Em cada um dos 5.570 municípios do país, temos por
+exemplo pessoas desempregadas e terra parada. Não é complicado pensar que se possa organizar um cinturão verde hortifrutigranjeiro em torno de cada um, simplesmente
+articulando os fatores de produção parados. 
+* Em Santos, no tempo de David Capistrano, acompanhei o projeto em que os desempregados da cidade foram cadastrados e organizados na Operação Praia Limpa, que permitiu realizar as obras de saneamento, tirando os esgotos dos canais pluviais, o que recuperou a balneabilidade das praias, e em consequência o turismo, a atividade hoteleira e semelhantes, transformando uma operação temporária em empregos permanentes. O prefeito não ficou esperando “os
+mercados”: gerou a base da sua dinamização. 
+* Exemplos não faltam, planejamento econômico e social consiste em boa parte em articular fatores subutilizados.
+* Um argumento ideológico sempre buscou justificar a desigualdade com a falta de iniciativa dos pobres: o pobre não precisa que lhe ensinem disposição para trabalhar, precisa de oportunidades. 
+* Isso envolve planejamento e iniciativas públicas, em vez de discursos ideológicos. 
 
 > ### A subutilização da terra
 * O censo agropecuário de 2017 nos dá outra dimensão da subutilização dos fatores. O
