@@ -1,36 +1,6 @@
-Aqui está o conteúdo das aulas organizadas em Markdown:  
+# Aula 12 - Sistemas Eleitorais Majoritários  
 
----
-
-## Aula 11 - Planejamento  
-
-### Planejamento – 2ª unidade  
-- **Revisão:** APSs  
-- **Sistemas eleitorais:**  
-  - Majoritários (Nicolau 2004, Cap. 1)  
-  - Proporcionais (Nicolau 2004, Cap. 2)  
-  - Mistos, Brasil, consequências (Nicolau 2004, Caps. 3 e 4)  
-- **Partidos políticos:**  
-  - Tipos (Gunther e Diamond 2015[2003])  
-  - Organizações (Melo in Mendonça et al 2018)  
-- **Sistemas partidários:**  
-  - Competição (Downs 1999[1957], Cap. 8)  
-  - Variáveis (Bardi e Mair 2010[2008])  
-- **Atividades:**  
-  - Exercício 2  
-  - Prova 2  
-
-### Questões para discussão  
-1. Descreva algum aspecto do sistema político brasileiro que atualmente esteja diferente do que consta nas leituras da 1ª unidade.  
-2. O poder judiciário é um ator político? Justifique sua resposta mobilizando conteúdos da aula 6.  
-3. Como o presidente consegue governar sem maioria no legislativo? Responda mobilizando conteúdos da aula 7.  
-4. Qual a relação entre as agências reguladoras e o sistema político brasileiro?  
-
----
-
-## Aula 12 - Sistemas Eleitorais Majoritários  
-
-### Conceitos e vocabulário  
+## Conceitos e vocabulário  
 - **Plurality** = maioria simples  
 - **Distrito** = circunscrição onde votos são convertidos em mandatos  
 - **Constituency** = eleitorado do distrito  
@@ -42,7 +12,7 @@ Aqui está o conteúdo das aulas organizadas em Markdown:
 - **Double Ballot (Two-round System)** = sistema de dois turnos  
 - **Instant Run-off** = voto alternativo  
 
-### Sistemas majoritários para o legislativo  
+## Sistemas majoritários para o legislativo  
 - **Distritos uninominais (M=1):**  
   - Maioria simples (Reino Unido)  
   - Dois turnos (França)  
@@ -60,14 +30,12 @@ Aqui está o conteúdo das aulas organizadas em Markdown:
   - Cada partido apresenta 1 candidato por distrito.  
   - Cada eleitor dá 1 voto nominal.  
   - Vence o candidato mais votado.  
-
 - **França:**  
   - Cada distrito elege 1 representante (M=1).  
   - Cada partido apresenta 1 candidato por distrito.  
   - Cada eleitor dá 1 voto nominal.  
   - Vence quem tiver mais de 50% dos votos.  
   - Se nenhum candidato ultrapassar 50%, ocorre um segundo turno.  
-
 - **Austrália (Voto Alternativo):**  
   - Cada distrito elege 1 representante (M=1).  
   - Cada eleitor ordena os candidatos em ordem de preferência.  
@@ -75,16 +43,15 @@ Aqui está o conteúdo das aulas organizadas em Markdown:
   - Se ninguém atingir 50%, os votos dos candidatos menos votados são redistribuídos conforme a preferência seguinte.  
 
 ### Comparação entre sistemas  
-| **Majoritários** | **Proporcionais** |  
-|-----------------|------------------|  
-| Poder concentrado | Poder disperso |  
-| Comunidades | Ideias |  
-| Alternância | Partilha |  
-| Oposição | Coalizão |  
-| Accountability | Representatividade |  
-| Vontade da maioria | Participação das minorias |  
-| Distritos geralmente uninominais | Distritos plurinominais |  
 
----
+| MAJORITÁRIOS                     | PROPORCIONAIS             |  
+|----------------------------------|---------------------------|  
+| Poder concentrado                | Poder disperso            |  
+| Comunidades                      | Ideias                    |  
+| Alternância                      | Partilha                  |  
+| Oposição                         | Coalizão                  |  
+| Accountability                   | Representatividade        |  
+| Vontade da maioria               | Participação das minorias |  
+| Distritos geralmente uninominais | Distritos plurinominais   |  
 
 

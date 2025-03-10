@@ -1,14 +1,6 @@
-Aqui está o conteúdo do PDF organizado em formato Markdown:
-
-```markdown
-# Aula 18: Sistemas Partidários 2 - Variáveis
-
-**Referência**: Bardi e Mair (2010[2008])
-
----
+# Aula 18: Sistemas Partidários 2 - Variáveis (Referência: Bardi e Mair (2010[2008]))
 
 ## Como os Sistemas Partidários Variam?
-
 - **Como se distinguem uns dos outros?**
 - **Como mudam no tempo?**
 
@@ -18,8 +10,6 @@ Aqui está o conteúdo do PDF organizado em formato Markdown:
 3. **Institucionalização**.
 4. **Nacionalização**.
 
----
-
 ## Tamanho x Distribuição Ideológica (Sartori 1982[1976])
 
 | Contagem | **Polarizado** | **Moderado** |
@@ -28,16 +18,11 @@ Aqui está o conteúdo do PDF organizado em formato Markdown:
 | **3 a 5** | –              | Governo de coalizão, dinâmica bipolar entre coalizões, competição centrípeta, política moderada, oposição unilateral, pequena distância ideológica. |
 | **> 5**  | Partidos anti-sistema relevantes, partido(s) no centro e oposições bilaterais, competição centrífuga e ideológica, oposições irresponsáveis, promessas levianas. | – |
 
----
-
 ## Fragmentação (Eleitoral ou Parlamentar)
-
 - **Laakso e Taagepera (1979)**:
   - **Número Efetivo de Partidos** = \( 1 / \sum p_i^2 \).
 - **Rae (1967)**:
   - **Fracionalização Partidária** = \( 1 - \sum p_i^2 \).
-
----
 
 ### Exemplo: Fragmentação no Peru (2011)
 
@@ -62,12 +47,9 @@ Aqui está o conteúdo do PDF organizado em formato Markdown:
 
 **Fracionalização** = \( 1 - 0.17 = 0.83 \).
 
----
-
 ## Polarização (Dalton 2008)
 
 ### Posicionamento dos Cidadãos na Escala Esquerda-Direita
-
 - **Canadá**:
   - 1 a 9.
 - **Espanha**:
@@ -76,8 +58,6 @@ Aqui está o conteúdo do PDF organizado em formato Markdown:
   - 1 a 9.
 - **República Tcheca (2002)**:
   - 1 a 9.
-
----
 
 ### Índice de Polarização
 
@@ -93,8 +73,6 @@ Onde:
 - **10**: Todos os partidos divididos entre os extremos.
 
 **Cuidado**: Polarização do sistema partidário ≠ polarização afetiva.
-
----
 
 ### Exemplo de Cálculo de Polarização
 
@@ -120,26 +98,18 @@ Onde:
 | R       | 8,5                        | 4,3                  | 2,45                                               | 0,24                                   | 1,04                                               |
 | **Média do Sistema** | 6,1                        | 100,0                |                                                    |                                        | **Soma** 9,30 **Raiz Quadrada** 3,05               |
 
----
-
 ## Institucionalização
-
 **Precursor**: Mainwaring e Scully (1994).
-
 - **Estabilidade da competição** (volatilidade eleitoral).
 - **Raízes na sociedade** (voto ideológico).
 - **Legitimidade conferida pelos atores políticos**.
 - **Autonomia dos partidos em relação aos líderes**.
-
----
 
 ### Volatilidade Eleitoral (Pedersen 1979)
 
 \[ \text{Volatilidade} = \frac{\sum |\Delta p_i|}{2} \]
 
 Onde \( \Delta p_i \) é a diferença entre as votações obtidas pelo partido \( i \) em duas eleições consecutivas.
-
----
 
 ### Exemplo de Cálculo de Volatilidade
 
@@ -158,8 +128,6 @@ Onde \( \Delta p_i \) é a diferença entre as votações obtidas pelo partido \
 
 **Volatilidade** = \( \frac{23,30}{2} = 11,65 \).
 
----
-
 ## Nacionalização (Jones e Mainwaring 2003)
 
 ### Capilaridade/Dispersão Territorial do Desempenho Eleitoral
@@ -167,8 +135,6 @@ Onde \( \Delta p_i \) é a diferença entre as votações obtidas pelo partido \
 - **Nacionalização do Partido \( i \)** = \( 1 - \text{Gini da votação} \).
   - **Gini**: Mede concentração de renda, de 0 (renda igualmente distribuída entre grupos) a 1 (renda totalmente concentrada em um dos grupos).
 - **Nacionalização do Sistema Partidário** = \( \sum \text{Nacionalização} \cdot \% \text{votação} \).
-
----
 
 ### Exemplo de Cálculo de Nacionalização
 
@@ -185,8 +151,6 @@ Onde \( \Delta p_i \) é a diferença entre as votações obtidas pelo partido \
 
 **Nacionalização do Partido A** = \( 1 - 0,63 = 0,37 \).
 
----
-
 ### Nacionalização do Sistema Partidário
 
 | Partido | Nacionalização do Partido | % Votos | Nacionalização \( p_i \cdot \% \text{votos} p_i \) |
@@ -194,6 +158,3 @@ Onde \( \Delta p_i \) é a diferença entre as votações obtidas pelo partido \
 | A       | 0.37                      | 76.92   | 28.46                                              |
 | B       | 0.87                      | 23.08   | 20.00                                              |
 | **Nacionalização do Sistema** |                           |         | **48.46**                                          |
-```
-
-Se precisar de mais ajustes ou formatações específicas, é só avisar! 😊
