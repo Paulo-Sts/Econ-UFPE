@@ -1,0 +1,12 @@
+# Estudo Dirigido 3  
+**Referente à aula do dia 19.12.24**  
+
+A **Nova Rota da Seda**, ou **Belt and Road Initiative (BRI)**, é um megaprojeto de infraestrutura e desenvolvimento econômico liderado pela China. Lançado em 2013, o projeto visa conectar a China à Europa, Ásia, África e América Latina através de uma rede de corredores terrestres e marítimos. A iniciativa inclui investimentos em portos, ferrovias, rodovias, energia e telecomunicações, com o objetivo de facilitar o comércio internacional, expandir a influência chinesa e integrar economias globais ao mercado chinês. A BRI é composta por duas principais rotas: a **Rota Terrestre**, conhecida como "Cinturão Econômico", que conecta a China à Europa através da Ásia Central, e a **Rota Marítima**, chamada de "Rota da Seda Marítima", que liga a China ao Sudeste Asiático, Oriente Médio, África e América do Sul.  
+
+O **Porto de Chancay**, localizado no Peru, é um projeto estratégico da China na América do Sul, financiado pela empresa chinesa **COSCO Shipping**. Com inauguração prevista para 2024, o porto será o mais moderno da região, com capacidade para receber navios de grande porte e reduzir o tempo de transporte de mercadorias entre a Ásia e a América do Sul. O Porto de Chancay consolida a presença chinesa na América do Sul, integrando a região à Rota da Seda Marítima e fortalecendo laços comerciais e políticos com países como Brasil, Chile e Argentina. Além disso, o porto oferece uma alternativa aos canais tradicionais controlados pelos EUA, como o Canal do Panamá, permitindo que países sul-americanos diversifiquem suas parcerias comerciais e reduzam a influência econômica e política dos EUA na região.  
+
+A presença chinesa na América do Sul ameaça a hegemonia dos EUA, que historicamente consideram a região como seu "quintal estratégico". O Porto de Chancay pode acelerar a desdolarização do comércio regional, com mais transações sendo feitas em yuan ou moedas locais. Essa mudança representa um desafio para os EUA, que enfrentam a perda de influência em um cenário cada vez mais multipolar. O Porto de Chancay é, portanto, um marco da expansão chinesa na América do Sul e um símbolo da disputa de poder entre China e EUA. Ao integrar a região à Nova Rota da Seda, a China fortalece sua influência econômica e geopolítica, enquanto os EUA lutam para manter sua hegemonia em um mundo em transformação.  
+
+### Referências  
+- MENDONÇA, Marco Aurélio Alves de et al. A Nova Rota da Seda e a Projeção Econômica Internacional da China.  
+- QING, Zhou. O Porto de Chancay.  
