@@ -56,7 +56,7 @@
 - Não é possível encontrar um ponto melhor, isso se deve ao formato das curva de indiferença.
 - A preferência por diversificação garante que há uma única solução.
 - Na solução ótima, a incinação da curva de indiferença é igual a inclinação da restrição orçamentária.
- TMS=-p1/p2
+- TMS=-p1/p2
 
 #### CURVA DE DEMANDA
 - Variando o preço do bem, podemos encontrar as várias quantidades consumidas do bem
