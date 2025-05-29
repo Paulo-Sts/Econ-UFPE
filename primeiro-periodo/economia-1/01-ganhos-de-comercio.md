@@ -7,7 +7,8 @@
 - A especialização atua para a alocação da produção para quem tem o menor custo de oportunidade.
 
 #### Fronteira de possibilidades da produção
-- A fronteira de possibilidades de produção apresenta o valor máximo da produção de bens ou serviços, a partir de determinada disponibilidade de recursos.
+- Mostra as diversas combinações de produção de 2 bens que uma economia pode produzir, dado os fatores de produção e a tecnologia disponível.
+- A fronteira de possibilidades de produção também apresenta o valor máximo da produção de bens ou serviços, a partir de determinada disponibilidade de recursos.
 
 Ex: 2 produtores, 2 bens, produção por tempo em uma 40 horas semanais.
 
@@ -83,3 +84,13 @@ Equação: 1kg de A da xkg de B
 - Total carne = 0kg + 90kg = 90kg  
 
 **OBSERVAÇÃO:** A taxa de troca mutualmente benéfica pode ser qualquer valor dentro no intervalo do custo de oportunidade dos 2 produtores em relação ao bem.
+
+#### Deslocamento da FPP (muda a posição do gráfico todo)
+- Quando há mudanças nos fatores de produção e/ou tecnologia que afetam a produção dos 2 bens da mesma maneira.
+- Se a mudança aumenta a produtividade, a FPP se desloca para direita.
+- Se a mudança diminui a produtividade, a FPP se desloca para esquerda.
+
+#### Rotação da FPP (muda a posição de uma das extremidades do gráfico)
+- Quando há mudanças nos fatores de produção e/ou tecnologia que afetam apenas um bem.
+- Se a mudança afeta positivamente o bem do eixo X, a FPP rotaciona no intercepto do eixo do bem Y.
+- Se a mudança afeta positivamente o bem do eixo Y, a FPP rotaciona no intercepto do eixo do bem X.
